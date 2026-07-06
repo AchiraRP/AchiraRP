@@ -1,8 +1,19 @@
+````markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESSING+SYSTEM...;ACHIRA+PATHIRAJA;CYBERSECURITY+STUDENT;AI+%26+ML+ENTHUSIAST;WELCOME+TO+MY+PROFILE" />
 
 <br>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/📧_CONNECT-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=111111">
+</a>
+
+<a href="https://github.com/AchiraRP/raw/main/Assets/Achira_Pathiraja_CV.pdf">
+<img src="https://img.shields.io/badge/⬇_DOWNLOAD_CV-0a0a0a?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF41&labelColor=111111">
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:002200&height=4&section=header"/>
 
@@ -146,3 +157,4 @@ goal:
 <img src="https://komarev.com/ghpvc/?username=AchiraRP&label=PROFILE+VIEWS&color=00ff41&style=flat-square&label_color=0a0a0a"/>
 
 </div>
+````
