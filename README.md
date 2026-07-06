@@ -1,16 +1,17 @@
-````markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESSING+SYSTEM...;ACHIRA+PATHIRAJA;CYBERSECURITY+STUDENT;AI+%26+ML+ENTHUSIAST;WELCOME+TO+MY+PROFILE" />
 
-<br>
+<br><br>
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/📧_CONNECT-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=111111">
+  <img src="https://img.shields.io/badge/CONTACT_ME-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=111111"/>
 </a>
 
-<a href="https://github.com/AchiraRP/raw/main/Assets/Achira_Pathiraja_CV.pdf">
-<img src="https://img.shields.io/badge/⬇_DOWNLOAD_CV-0a0a0a?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF41&labelColor=111111">
+&nbsp;&nbsp;
+
+<a href="https://raw.githubusercontent.com/AchiraRP/AchiraRP/main/Assets/Achira_Pathiraja_CV.pdf">
+  <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF41&labelColor=111111"/>
 </a>
 
 <br><br>
@@ -23,7 +24,7 @@
 
 ```bash
 Name        : Achira Pathiraja
-Education   : SLIIT IT Undergraduate
+Education   : 3rd Year, 1st Semester Cybersecurity Undergraduate @ SLIIT
 Location    : Sri Lanka
 Focus       : Cybersecurity & AI
 Learning    : SOC Analysis, DFIR, Machine Learning
@@ -44,7 +45,7 @@ interests:
   - Software Development
 
 currently_working_on:
-  - FocusLearn Browser Extension
+  - OpenFocus Browser Extension
   - AI/ML Projects
   - Cybersecurity Labs
 
@@ -81,13 +82,13 @@ goal:
 
 # `> featured_projects`
 
-### 🔥 [Wildfire Detection using Deep Learning](#)
+### 🔥 Wildfire Detection using Deep Learning
 > EfficientNetB0-based wildfire classification model trained on 42,000+ images.
 
-### 🎯 [FocusLearn](#)
-> A browser extension that transforms YouTube into a distraction-free learning platform.
+### 🎯 OpenFocus
+> A browser extension that transforms your browser into a distraction-free productivity workspace.
 
-### 🔐 [Cybersecurity Investigations](#)
+### 🔐 Cybersecurity Investigations
 > SOC-style investigations, DFIR exercises, BTLO challenges, and security research.
 
 ---
@@ -96,9 +97,9 @@ goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchiraRP&show_icons=true&bg_color=0a0a0a&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=00ff41&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchiraRP&show_icons=true&bg_color=0a0a0a&title_color=00ff41&text_color=00cc33&icon_color=00ff41&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchiraRP&layout=compact&bg_color=0a0a0a&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=00ff41&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchiraRP&layout=compact&bg_color=0a0a0a&title_color=00ff41&text_color=00cc33&icon_color=00ff41&hide_border=true"/>
 
 </div>
 
@@ -157,4 +158,3 @@ goal:
 <img src="https://komarev.com/ghpvc/?username=AchiraRP&label=PROFILE+VIEWS&color=00ff41&style=flat-square&label_color=0a0a0a"/>
 
 </div>
-````
